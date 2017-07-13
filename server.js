@@ -18,11 +18,11 @@ app.get('/index.html', function(req, res){
 app.get('/SEO.html', function(req, res){
   res.sendFile(path.join(__dirname, 'view/SEO.html'));
 });
-app.get('/Difference Between SEO and SEM.html', function(req, res){
-  res.sendFile(path.join(__dirname, 'view/Difference Between SEO and SEM.html'));
+app.get('/DifferenceBetweenSEOandSEM.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/DifferenceBetweenSEOandSEM.html'));
 });
-app.get('/Difference between ON PAGE and OFF PAGE SEO.html', function(req, res){
-  res.sendFile(path.join(__dirname, 'view/Difference between ON PAGE and OFF PAGE SEO.html'));
+app.get('/DifferencebetweenONPAGEandOFFPAGESEO.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/DifferencebetweenONPAGEandOFFPAGESEO.html'));
 });
 app.get('/sitemap.xml', function(req, res){
   res.sendFile(path.join(__dirname, 'view/sitemap.xml'));
