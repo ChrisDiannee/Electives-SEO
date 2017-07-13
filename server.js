@@ -15,15 +15,22 @@ app.get('/', function(req, res){
 app.get('/index.html', function(req, res){
   res.sendFile(path.join(__dirname, 'view/index.html'));
 });
-app.get('/ass1.html', function(req, res){
-  res.sendFile(path.join(__dirname, 'view/ass1.html'));
+app.get('/SEO.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/SEO.html'));
 });
-app.get('/ass2.html', function(req, res){
-  res.sendFile(path.join(__dirname, 'view/ass2.html'));
+app.get('/Difference Between SEO and SEM.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/Difference Between SEO and SEM.html'));
 });
-app.get('/ass3.html', function(req, res){
-  res.sendFile(path.join(__dirname, 'view/ass3.html'));
+app.get('/Difference between ON PAGE and OFF PAGE SEO.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/Difference between ON PAGE and OFF PAGE SEO.html'));
 });
+app.get('/sitemap.xml', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/sitemap.xml'));
+});
+app.get('/google5b2c980043e913c4.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/google5b2c980043e913c4.html'));
+});
+
 
 
 //express server listen

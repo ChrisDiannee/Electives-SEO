@@ -1,3 +1,22 @@
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+  margin-top:50px;
+}
+
+#map_container{
+  position: relative;
+}
+#map{
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 22.25%;
+    padding-top: 30px;
+    position: relative;
+}
+
+
 img {
     display: block;
     margin: 0 auto;
@@ -105,12 +124,6 @@ a{
 
 body{
 
-		   background: url(https://s-media-cache-ak0.pinimg.com/originals/f1/57/c4/f157c4d5789adbb9e571759bfa06c7cc.jpg) no-repeat center center fixed; 
-		  -webkit-background-size: cover;
-		  -moz-background-size: cover;
-		  -o-background-size: cover;
-		  background-size: cover;
-   
     font-family: arial; 
     font-size: 80%; 
     line-height: 1.2em; 
@@ -184,10 +197,8 @@ body{
 
 	div.para{
 		/* background-image: url("http://img.freepik.com/free-vector/technological-background-with-connected-lines_1017-7096.jpg?size=338&ext=jpg"); */
-		  background-image: url('https://inspirationhut.net/wp-content/uploads/2013/05/52.png');
-  			font-size: 15px;
-		   font-family: "Times New Roman", Times, serif;
-		  
+
+		font-family: "Times New Roman", Times, serif;  
 		color: black;
 		margin:70px 100px 20px 100px;
 		padding: 50px; 

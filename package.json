@@ -1,25 +1,16 @@
 {
-  "name": "Electives-SEO",
+  "name": "Elect",
   "version": "1.0.0",
-  "description": "Electives-SEO",
+  "description": "",
   "main": "server.js",
-  "dependencies": {
-    "express": "^4.15.3"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ChrisDiannee/Electives-SEO.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ChrisDiannee/Electives-SEO/issues"
-  },
-  "homepage": "https://github.com/ChrisDiannee/Electives-SEO#readme"
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
