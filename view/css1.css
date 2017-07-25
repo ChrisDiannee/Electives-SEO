@@ -231,13 +231,6 @@ div.para,
   font-size: 17px;
 }
 
-
-
-
-
-
-
-
 .b{
 	text-align: right;
 
@@ -248,18 +241,9 @@ div.para,
 	color: white;
 	 background-color: #333;
 }
+.pad{margin: 45px 0px 0px 0;}
 
-
-.pad{
-	
-	margin: 45px 0px 0px 0;
-}
-
-
-
-
-
- .navbartop {
+.navbartop {
   overflow: hidden;
   background-color: #333;
   position: fixed;
@@ -282,10 +266,3 @@ div.para,
 
 a:active {
     color: green;
-
-
-
-
-
-
-

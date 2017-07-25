@@ -28,7 +28,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('https://0.s3.envato.com/files/111001943/Data_background%204.jpg');
+
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -94,12 +94,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 20px;
 }
 
-.intro {
-	color: #fff;
-    background-color: yellowgreen;
-    padding: 70px 0;
-    text-align: center;
-}
+
 
 .content {
     padding: 100px 0;
@@ -114,6 +109,24 @@ header .header-content .header-content-inner p {
 	padding: 20px 0 40px;
 	text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .promo,
 .promo h3,
@@ -139,29 +152,164 @@ header .header-content .header-content-inner p {
 }
 
 .promo-item h3 {
-    font-size: 40px;
+    font-size: 20px;
     display: inline-block;
     vertical-align: middle;
 }
 
 .item-1 {
-	background: url('../images/writing.jpg');
+     background: url(https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.0-9/19399397_1508054425925268_7492086389811782637_n.jpg?oh=8ad66d368bb5827024b95eec72a461a2&oe=59FA3464);
 	}
 	
 .item-2 {
-	background: url('../images/concert.jpg');
+	background: url(https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-9/19260443_858697980951294_6380678329355430933_n.jpg?oh=b23e01fca6e3808201faa467f362c663&oe=5A0C8147 );
 	}
 	
 .item-3 {
-	background: url('../images/pencil_sharpener.jpg');
+	background: url(https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-1/11210415_1025381477490554_1921662932387418003_n.jpg?oh=e2d4d97213985b516f9669c3e080376f&oe=5A032BFD);
 	}
+.item-4 {
+   background: url(http://thesearch.herokuapp.com/images/ryan.jpg);
+    
+    }
+.item-5 {
+    background: url(http://thesearch.herokuapp.com/images/claire.jpg);
+    }
+.item-6 {
+    background: url(http://thesearch.herokuapp.com/images/criscia.jpg);
+    }
+.item-7 {
+    background: url(http://thesearch.herokuapp.com/images/miguel.jpg);
+    }
+.item-8 {
+    background: url(http://thesearch.herokuapp.com/images/chessa.jpg);
+    }
+.item-9 {
+    background: url(https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-9/19225581_1739335466095910_6393825454955759478_n.jpg?oh=f8ff1fbe2f7ff85a0f9bc52a27c28481&oe=59C4B55E);
+    }
+.item-10 {
+    background: url(http://thesearch.herokuapp.com/images/harryn.jpg);
+    }
+.item-11 {
+    background: url(http://thesearch.herokuapp.com/images/marco.jpg);
+    }
+.item-12 {
+    background: url(http://thesearch.herokuapp.com/images/elouise.jpg);
+    }
+.item-13 {
+    background: url(http://thesearch.herokuapp.com/images/ave.jpg);
+    }
+.item-14 {
+    background: url(https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-9/17903749_1482561365088984_3249875421093343113_n.jpg?oh=8242e5d484f25dae3baaad724a440b27&oe=59F6950A);
+    }
+.item-15 {
+    background: url(https://scontent.fceb1-1.fna.fbcdn.net/v/t1.0-9/19400005_1782947668387335_4362943089025370903_n.jpg?oh=e3241b86452dbf4e6e7163930691d3c5&oe=5A0FAD48);
+    }
+.item-16 {
+    background: url(http://thesearch.herokuapp.com/images/edgar.jpg);
+    }
+.item-17 {
+    background: url(http://thesearch.herokuapp.com/images/zillah.jpg);
+    }
+.item-18 {
+    background: url(https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.0-9/19554983_1718927728135383_6238284268063989827_n.jpg?oh=c80b9752afdc83918b3b23e478828466&oe=59EC4C8D);
+    }
+.item-19 {
+    background: url(http://thesearch.herokuapp.com/images/joyce.jpg);
+    }
+.item-20 {
+    background: url(http://thesearch.herokuapp.com/images/liza.jpg);
+    }
+.item-21 {
+    background: url(http://thesearch.herokuapp.com/images/arvin.jpg);
+    }
+.item-22 {
+    background: url(http://thesearch.herokuapp.com/images/donnrey.jpg);
+    }
+.item-23 {
+    background: url(http://thesearch.herokuapp.com/images/andrew.jpg);
+    }
+.item-24 {
+    background: url(http://thesearch.herokuapp.com/images/james.jpg);
+    }
+.item-25 {
+    background: url();
+    }
+.item-26 {
+    background: url(http://thesearch.herokuapp.com/images/johanna.jpg);
+    }
+.item-27 {
+    background: url(https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.0-9/19248059_1785064468176146_2970282996990256859_n.jpg?oh=c65ff57603cc06da371e104c926b19ec&oe=5A37C0BC);
+    }
+.item-28 {
+    background: url(http://thesearch.herokuapp.com/images/ervin.jpg);
+    }
+
+
+
 		
-.item-1,
+
 .item-2,
-.item-3 {
+.item-3,
+.item-4,
+.item-5,
+
+.item-7,
+.item-8,
+.item-9, 
+.item-10,
+.item-11,
+.item-12,
+
+.item-14,
+
+.item-17,
+
+.item-19,
+.item-20,
+.item-21,
+
+.item-23,
+.item-24,
+.item-25,
+.item-26
+
+{
 	background-size: cover;
 	background-position: 50% 50%;
 	}
+
+.item-16,
+.item-13,
+.item-6,
+.item-1,
+
+.item-22,
+.item-15,
+
+.item-28
+{
+    background-size: cover;
+    background-position: 10% 10%;
+    }
+
+
+
+
+.item-27
+ {
+    background-size: cover;
+    background-position: 70% 30%;
+    }
+
+
+.item-18
+ {
+    background-size: cover;
+    background-position: 50% 60%;
+    }
+
+
 
 .page-footer {
 	text-align: center;

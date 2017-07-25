@@ -24,11 +24,26 @@ app.get('/DifferenceBetweenSEOandSEM.html', function(req, res){
 app.get('/DifferencebetweenONPAGEandOFFPAGESEO.html', function(req, res){
   res.sendFile(path.join(__dirname, 'view/DifferencebetweenONPAGEandOFFPAGESEO.html'));
 });
-app.get('/sitemap.xml', function(req, res){
-  res.sendFile(path.join(__dirname, 'view/sitemap.xml'));
+app.get('/SiteMap.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/SiteMap.html'));
+});
+app.get('/URLCanonicalization.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/URLCanonicalization.html'));
 });
 app.get('/google5b2c980043e913c4.html', function(req, res){
   res.sendFile(path.join(__dirname, 'view/google5b2c980043e913c4.html'));
+});
+
+app.get('/SitesMobileResponsiveDesign.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/SitesMobileResponsiveDesign.html'));
+});
+
+
+
+
+
+app.get('/backlinks.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/backlinks.html'));
 });
 
 
