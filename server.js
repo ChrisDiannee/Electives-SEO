@@ -34,9 +34,19 @@ app.get('/google5b2c980043e913c4.html', function(req, res){
   res.sendFile(path.join(__dirname, 'view/google5b2c980043e913c4.html'));
 });
 
+app.get('/additional_contents.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/additional_contents.html'));
+});
+
 app.get('/SitesMobileResponsiveDesign.html', function(req, res){
   res.sendFile(path.join(__dirname, 'view/SitesMobileResponsiveDesign.html'));
 });
+
+
+app.get('/SEO_CONTENTS.html', function(req, res){
+  res.sendFile(path.join(__dirname, 'view/SEO_CONTENTS.html'));
+});
+
 
 
 
